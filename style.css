@@ -1,0 +1,13 @@
+#main-body1 {
+    background-image: url("http://i.vimeocdn.com/video/469745803_1280x720.jpg");
+  background-size: 100%;
+  color:white;
+  background-repeat:no-repeat;
+  }
+#weather-icon {
+  background-image: url("https://image.freepik.com/free-vector/weather-icon-set_1275-23.jpg") ;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+   background-position: -350px -200px;
+}
